@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SamVa\OneDrive\Desktop\PTSIM\ZJX\ZJX_ES_2207.sct2
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\ZJX_ES_2207.sct2
 SECTORTITLE:ZJX_ES_2207.sct2
 ARTCC boundary:KZDC_H_CTR:
 ARTCC boundary:KZDC_L_CTR:
@@ -44,6 +44,30 @@ ARTCC low boundary:TPA_APP:
 ARTCC low boundary:VLD_APP:
 ARTCC low boundary:VPS_APP:
 ARTCC low boundary:X8201:
+Fixes:DDANY:name
+Fixes:DDANY:symbol
+Fixes:FACTS:name
+Fixes:FACTS:symbol
+Fixes:FATHE:name
+Fixes:FATHE:symbol
+Fixes:FSHUN:name
+Fixes:FSHUN:symbol
+Fixes:GOHOM:name
+Fixes:GOHOM:symbol
+Fixes:JEEMY:name
+Fixes:JEEMY:symbol
+Fixes:JWOLF:name
+Fixes:JWOLF:symbol
+Fixes:KYOTE:name
+Fixes:KYOTE:symbol
+Fixes:MZULO:name
+Fixes:MZULO:symbol
+Fixes:OSPRY:name
+Fixes:OSPRY:symbol
+Fixes:RDSOX:name
+Fixes:RDSOX:symbol
+Fixes:SAWZZ:name
+Fixes:SAWZZ:symbol
 Free Text:SCT2\009/100:freetext
 Free Text:SCT2\01:freetext
 Free Text:SCT2\013/030:freetext
@@ -2056,7 +2080,7 @@ VORs:ZBV:symbol
 VORs:ZFP:symbol
 VORs:ZTC:symbol
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -2067,4 +2091,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:30.456445:-81.753881:30.511479:-81.629076
+WINDOWAREA:28.398614:-81.380862:28.471047:-81.249484
