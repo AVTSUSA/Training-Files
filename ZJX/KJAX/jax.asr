@@ -1,8 +1,28 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KJAX.sct2
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KJAX\KJAX.sct2
 SECTORTITLE:KJAX.sct2
+Fixes:ARNEY:name
+Fixes:ARNEY:symbol
+Fixes:BAXLY:name
+Fixes:BAXLY:symbol
+Fixes:CROSB:name
+Fixes:CROSB:symbol
+Fixes:EXBOX:name
+Fixes:EXBOX:symbol
+Fixes:GIGLZ:name
+Fixes:GIGLZ:symbol
+Fixes:KIMML:name
+Fixes:KIMML:symbol
+Fixes:LIBBY:name
+Fixes:LIBBY:symbol
+Fixes:ORTAR:name
+Fixes:ORTAR:symbol
+Fixes:SAWGY:name
+Fixes:SAWGY:symbol
+Fixes:WISPR:name
+Fixes:WISPR:symbol
 Free Text:SCT2\14:freetext
 Free Text:SCT2\26:freetext
 Free Text:SCT2\32:freetext
@@ -114,4 +134,4 @@ SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:30.473416:-81.715046:30.510823:-81.648582
+WINDOWAREA:30.478856:-81.708220:30.502798:-81.665680

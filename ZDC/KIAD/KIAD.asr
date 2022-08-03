@@ -1,0 +1,125 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZDC\KIAD\KIAD.sct2
+SECTORTITLE:KIAD.sct2
+Free Text:SCT2\12:freetext
+Free Text:SCT2\19C:freetext
+Free Text:SCT2\19L:freetext
+Free Text:SCT2\19R:freetext
+Free Text:SCT2\1C:freetext
+Free Text:SCT2\1L:freetext
+Free Text:SCT2\1R:freetext
+Free Text:SCT2\30:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A4:freetext
+Free Text:SCT2\A5:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\CARGO:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E1:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E3:freetext
+Free Text:SCT2\EE:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\General Aviation:freetext
+Free Text:SCT2\General Aviation:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J1:freetext
+Free Text:SCT2\J1:freetext
+Free Text:SCT2\J1:freetext
+Free Text:SCT2\J2:freetext
+Free Text:SCT2\J3:freetext
+Free Text:SCT2\J4:freetext
+Free Text:SCT2\J5:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\K1:freetext
+Free Text:SCT2\K2:freetext
+Free Text:SCT2\K3:freetext
+Free Text:SCT2\K4:freetext
+Free Text:SCT2\K5:freetext
+Free Text:SCT2\K6:freetext
+Free Text:SCT2\K7:freetext
+Free Text:SCT2\K8:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\Q1:freetext
+Free Text:SCT2\Q2:freetext
+Free Text:SCT2\Q3:freetext
+Free Text:SCT2\Q4:freetext
+Free Text:SCT2\R Ramp:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\U1:freetext
+Free Text:SCT2\U2:freetext
+Free Text:SCT2\U3:freetext
+Free Text:SCT2\U4:freetext
+Free Text:SCT2\U5:freetext
+Free Text:SCT2\U6:freetext
+Free Text:SCT2\U7:freetext
+Free Text:SCT2\W2:freetext
+Free Text:SCT2\W3:freetext
+Free Text:SCT2\W4:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\Y1:freetext
+Free Text:SCT2\Y11:freetext
+Free Text:SCT2\Y11:freetext
+Free Text:SCT2\Y2:freetext
+Free Text:SCT2\Y2:freetext
+Free Text:SCT2\Y2:freetext
+Free Text:SCT2\Y3:freetext
+Free Text:SCT2\Y4:freetext
+Free Text:SCT2\Y4:freetext
+Free Text:SCT2\Y5:freetext
+Free Text:SCT2\Y6:freetext
+Free Text:SCT2\Y7:freetext
+Free Text:SCT2\Y8:freetext
+Free Text:SCT2\Y9:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z:freetext
+Free Text:SCT2\Z2:freetext
+Free Text:SCT2\Z3:freetext
+Free Text:SCT2\Z5:freetext
+Regions:noname:polygon
+Sids:IAD 4802889 Labels:
+Sids:Sullivan's Fancy Diagrams:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:38.915519:-77.568622:39.006107:-77.353213
