@@ -1,0 +1,141 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KSAV\KSAV.sct2
+SECTORTITLE:KSAV.sct2
+Free Text:SCT2\1:freetext
+Free Text:SCT2\10:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\28:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A1:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A2:freetext
+Free Text:SCT2\A3:freetext
+Free Text:SCT2\A4:freetext
+Free Text:SCT2\Air Cargo:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B1:freetext
+Free Text:SCT2\B2:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C1:freetext
+Free Text:SCT2\C2:freetext
+Free Text:SCT2\C3:freetext
+Free Text:SCT2\Center:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E1:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\FBO:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\GA Ramp:freetext
+Free Text:SCT2\GA4:freetext
+Free Text:SCT2\GA5:freetext
+Free Text:SCT2\GA6:freetext
+Free Text:SCT2\Georgia ANG:freetext
+Free Text:SCT2\Georgia ANG ADC:freetext
+Free Text:SCT2\Gulfstream:freetext
+Free Text:SCT2\Gulfstream:freetext
+Free Text:SCT2\Gulfstream Factory:freetext
+Free Text:SCT2\Service:freetext
+Free Text:SCT2\Sheltair:freetext
+Free Text:SCT2\Signature FBO:freetext
+Free Text:SCT2\Terminal:freetext
+Free Text:SCT2\West Service Center:freetext
+Geo:GEO:
+Regions:1:polygon
+Regions:2:polygon
+Regions:a:polygon
+Regions:aa:polygon
+Regions:aa:polygon
+Regions:ass:polygon
+Regions:awwa:polygon
+Regions:ddddddaaaa:polygon
+Regions:dddddddddw:polygon
+Regions:dwsssssssssssawww:polygon
+Regions:s:polygon
+Regions:ss:polygon
+Regions:ss:polygon
+Regions:ss:polygon
+Regions:SSS:polygon
+Regions:ssss:polygon
+Regions:ssss:polygon
+Regions:sssssss:polygon
+Regions:sssssssssss:polygon
+Regions:Untitled_Polygon_1:polygon
+Regions:Untitled_Polygon_10:polygon
+Regions:Untitled_Polygon_11:polygon
+Regions:Untitled_Polygon_12:polygon
+Regions:Untitled_Polygon_13:polygon
+Regions:Untitled_Polygon_14:polygon
+Regions:Untitled_Polygon_15:polygon
+Regions:Untitled_Polygon_17:polygon
+Regions:Untitled_Polygon_18:polygon
+Regions:Untitled_Polygon_19:polygon
+Regions:Untitled_Polygon_2:polygon
+Regions:Untitled_Polygon_20:polygon
+Regions:Untitled_Polygon_21:polygon
+Regions:Untitled_Polygon_22:polygon
+Regions:Untitled_Polygon_23:polygon
+Regions:Untitled_Polygon_24:polygon
+Regions:Untitled_Polygon_25:polygon
+Regions:Untitled_Polygon_26:polygon
+Regions:Untitled_Polygon_27:polygon
+Regions:Untitled_Polygon_28:polygon
+Regions:Untitled_Polygon_29:polygon
+Regions:Untitled_Polygon_3:polygon
+Regions:Untitled_Polygon_30:polygon
+Regions:Untitled_Polygon_31:polygon
+Regions:Untitled_Polygon_32:polygon
+Regions:Untitled_Polygon_33:polygon
+Regions:Untitled_Polygon_34:polygon
+Regions:Untitled_Polygon_35:polygon
+Regions:Untitled_Polygon_4:polygon
+Regions:Untitled_Polygon_5:polygon
+Regions:Untitled_Polygon_6:polygon
+Regions:Untitled_Polygon_7:polygon
+Regions:Untitled_Polygon_8:polygon
+Regions:Untitled_Polygon_9:polygon
+Regions:wawwwaaww:polygon
+Regions:wsdsdsssds:polygon
+Regions:ww:polygon
+Regions:ww:polygon
+Regions:ww:polygon
+Regions:wwaw:polygon
+Regions:www:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:32.119702:-81.213727:32.137905:-81.181385
