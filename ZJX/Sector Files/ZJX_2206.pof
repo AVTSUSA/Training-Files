@@ -384,7 +384,7 @@ DC_35_CTR:Washington Wilmington Center:124.020:D35:D:DC:CTR:ZDC:35:7001:7037 ;DC
 
 ;   DC Metro South
 DC_16_CTR:Washington Hopewell Center:121.870:D16:D:DC:CTR:ZDC:16:0501:0577 ;DC_HPW_CTR
-DC_36_CTR:Washington Raleigh Center:118.920:D35:D:DC:CTR:ZDC:35:0501:0577 ;DC_RDU_CTR
+DC_36_CTR:Washington Raleigh Center:118.925:D35:D:DC:CTR:ZDC:35:0501:0577 ;DC_RDU_CTR
 DC_38_CTR:Washington Tar River Center:132.220:D38:D:DC:CTR:ZDC:38:0501:0577 ;DC_TYI_CTR
 DC_14_CTR:Washington Irons Center:132.950:D14:D:DC:CTR:ZDC:14:0501:0577 ;DC_IRS_CTR
 
@@ -427,8 +427,8 @@ MIA_RT_CTR:Miami Routing:199.998:RT:C:MIA:CTR:ZMA:ROUTING:0000:0000 ;MIA_RG_CTR
 
 ;ZHU Enroute
 HOU_24_CTR:Houston Leeville Center:132.175:H24:C:HOU:CTR:ZHU:24:X:X
-HOU_25_CTR:Houston Brookley Center:125.775:H25:C:HOU:CTR:ZHU:25:X:X 
-HOU_37_CTR:Houston Hattiesburg Center:128.175:H26:C:HOU:CTR:ZHU:26:X:X ;HOU_E_CTR
+HOU_25_CTR:Houston Brookley Center:127.650:H25:C:HOU:CTR:ZHU:25:X:X 
+HOU_37_CTR:Houston Hattiesburg Center:126.875:H26:C:HOU:CTR:ZHU:26:X:X ;HOU_E_CTR
 HOU_63_CTR:Houston Mobile Center:125.775:H63:C:HOU:CTR:ZHU:63:X:X 
 
 ;ZHU Oceanic
