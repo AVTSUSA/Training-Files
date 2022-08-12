@@ -1,0 +1,153 @@
+; Jacksonville ARTCC (ZJX) Sector File
+; AIRAC 2206
+; Issued 6/25/2022
+
+;======CHANGE LOG======
+;Date, Author - Memo
+;6/25/2022, Samuel Valencia - Created File
+
+;BASIC COMMANDS
+.ho Contact $callsign($1) on $freq($1)
+.mv Maintain VFR At or Below $1
+.weather $metar($1)
+.altd $uc($dep) Altimeter $altim($dep)
+.alta $uc($arr) Altimeter $altim($arr)
+.altm $uc($1) Altimeter $altim($1) 
+.rlatis .openurl https://datis.clowd.io/$1
+.off15 ***$callsign WILL BE CLOSING IN 15 MINUTES!***
+.moff15 .msg $1 ***CLOSING IN 15 MINUTES!***
+.off5 ***$callsign WILL BE CLOSING IN 5 MINUTES!***
+.moff5 .msg $1 ***CLOSING IN 5 MINUTES!***
+.offu	***$callsign IS CLOSED. MONITOR UNICOM 122.800.***
+.offc ***$callsign IS CLOSED. CONTACT $callsign($1) ON $freq($1) FOR FURTHER SERVICE!***
+.moff .msg $1 ***CLOSED***
+
+;CLEARANCE DELIVERY COMMANDS
+.vr .openurl https://flightaware.com/analysis/route.rvt?origin=$dep&destination=$arr
+.expdc Expect PDC
+.nopdc .msg $aircraft PDC unavailable
+.pdccvs .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: $route | CLIMB VIA SID | DEPARTURE FREQUENCY: $freq($1) | SQUAWK: $squawk | EXPECT RUNWAY: $2 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Climb Via SID, used at MCO.
+.pdcm3 .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: $route | MAINTAIN 3000, EXPECT: $cruise 10 MINUTES AFTER DEPARTURE | DEPARTURE FREQUENCY: $freq($1) | SQUAWK: $squawk | EXPECT RUNWAY: $2 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Maintain 3000, used at JAX, DAB, MYR, SAV, TLH, and VPS.
+.pdcm5 .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: ORLA4 $route | MAINTAIN 5000, EXPECT: $cruise 10 MINUTES AFTER DEPARTURE | DEPARTURE FREQUENCY: $freq($1) | SQUAWK: $squawk | EXPECT RUNWAY: $2 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Maintain 5000, used at MCO for ORLA#.
+.pdcm2 .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: CITR1 $route | MAINTAIN 2000, EXPECT: $cruise 10 MINUTES AFTER DEPARTURE | DEPARTURE FREQUENCY: $freq($1) | SQUAWK: $squawk | EXPECT RUNWAY: $2 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Maintain 2000, used at MCO for CITR# and at SFB.
+.pdcm4 .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: $route | MAINTAIN 4000, EXPECT $cruise 10 MINUTES AFTER DEPARTURE | DEPARTURE FREQUENCY: $freq($1) | SQUAWK: $squawk | EXPECT RUNWAY: $2 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Maintain 4000, used at CAE, CHS, and DAB.
+.pdcm17 .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: $route | MAINTAIN 1700, EXPECT: $cruise 10 MINUTES AFTER DEPARTURE | DEPARTURE FREQUENCY: $freq($1) | SQUAWK: $squawk | EXPECT RUNWAY: $2 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Maintain 1700, used at PNS for Piston/Heli.
+.pdcmx .msg $aircraft *** PRE DEPARTURE CLEARANCE | CLEARED TO: $arr VIA: $route | MAINTAIN $1, EXPECT: $cruise 10 MINUTES AFTER DEPARTURE | DEPARTURE FREQUENCY: $freq($2) | SQUAWK: $squawk | EXPECT RUNWAY: $3 | CALL GROUND WHEN READY FOR TAXI WITH ATIS CODE | *** ;Blank PDC Template
+.pref .msg $aircraft Can you take this route to $arr ? $1
+.alt .msg $aircraft Can you take $1 as your cruise?
+.thx .msg $aircraft Thanks!
+
+;GROUND COMMANDS
+.push Push back and engine start is at pilot's discretion. Advise when ready to taxi.
+.taxi Runway $1 Taxi via $2
+.hs Hold short of runway $1
+.hst Hold short of taxiway $1
+.wa Wind $wind($dep), altimeter $altim($dep).
+.gw Give way to the $2 $3 on $1
+.gstop Ground stop in effect. Hold engine start and push back til advised.
+.edct Your expected departure clearance time is $1Z.  Time now $2Z.
+.ct Continue taxi
+.cross Cross runway $1
+.ctcr .ctaxi .cross $1
+.mon Monitor the tower $freq($1)
+.htx Runway $1, hover taxi via $2 $3 $4 $5 $6 $7 $8 $9
+
+;TOWER COMMANDS
+.luaw Runway $1, line up and wait.
+.tf Traffic a $1, $2 mile final.
+.thp Traffic holding in position.
+.th Traffic holding in position runway $1.
+.tl Traffic landing runway $1.
+.td Traffic departing runway $1.
+.adfh After departure fly heading $1
+.cft Runway $1, cleared for takeoff.
+.cftw wind $wind($dep), Runway $1,  cleared for takeoff.
+.cftwh wind $wind($dep), Runway $1,  cleared for takeoff. Fly Heading $2 After Departure.
+.ctlw wind $wind($arr), Runway $1,  cleared to land.
+.cftwd Runway $1, wind $wind($dep), cleared for takeoff. Contact departure.
+.cftfl Runway $1, full length, cleared for takeoff.
+.cftflw Runway $1, wind $wind($dep), cleared for takeoff.
+.cft@ Runway $1 at $2, cleared for takeoff.
+.cftw@ Runway $1 at $2, wind $wind($dep), cleared for takeoff.
+.cftwd@ Runway $1 at $2, wind $wind($dep), cleared for takeoff. Change to departure.
+.ctl Runway $1, cleared to land.
+.ctlwm wind $wind($2), Runway $1, cleared to land.
+.co Runway $1, cleared for the option.
+.cow Runway $1, wind $wind($arr), cleared for the option.
+.cos Runway $1, cleared for the option.  Stop and go unavailable.
+.cosw Runway $1, wind $wind($arr), cleared for the option.  Stop and go unavailable.
+.ctg Runway $1, cleared touch and go.
+.ctgw Runway $1, wind $wind($arr), cleared touch and go.
+.cla Runway $1, cleared low approach.
+.claw Runway $1, wind $wind($arr), cleared low approach.
+.cont Runway $1, continue.
+.mvd make $1 $2 departure.
+.cta $1 closed traffic approved.
+.tfc make $1 closed traffic to runway $2
+.misins Fly the missed approach procedure as published.
+.mid Traffic crossing midfield.
+.ewa Exit $1 when able, Advise Parking Area
+.exit Exit at $1
+
+;TRACON COMMANDS
+.lvas Leaving my airspace. No further radar services in then next sector. Radar services terminated, frequency changed approved. Enjoy Your Flight!
+.cam Climb and Maintain $1
+.dam Descend and Maintain $1
+.cvs Climb Via SID
+.dvs Descend Via STAR
+.pd Proceed Direct $1
+.rls Released for departure.  Time now $1Z.  Clearance void if not off by $2Z.
+.hdrlsd Hold for release.  Expect a $1 minute delay.
+.hdrlsr Hold for release.  Advise number $1 for departure.
+.repa Report airborne this frequency.
+.repp Report passing $1 this frequency.
+.etca Entering controlled airspace, 
+.urra .rbc .rls $1 $2 .fca .repa
+.urrp .rbc .rls $1 $2 .fca .repp $3
+.uhrd .rbc .hdrlsd $1 .fca
+.uhrn .rbc .hdrlsr $1 .fca
+.uterm .rst .repcanmis .chadv
+.ifrcan IFR Cancellation received.
+.ifrcanair IFR cancellation received.  Squawk and maintain VFR.
+.cvisa Cleared visual approach to $arr
+.xloc You appear to have crossed the localizer, turn $1 heading $2, vectors back to the intercept the localizer.
+.canapp Cancel approach clearance.
+.iloc Intercept the runway $1 localizer
+.irado Intercept the $1 $2 radial outbound
+.iradi Intercept the $1 $2 radial inbound
+.ibearo Intercept the $1 $2 bearing outbound
+.ibeari Intercept the $1 $2 bearing inbound
+.tl Turn left fly heading $1.
+.tr Turn right fly heading $1.
+.tld Turn left direct $1.
+.trd Turn right direct $1.
+.fph Fly present heading.
+.frh Fly runway heading.
+.360r Make a right 360 degree turn.
+.360l Make a left 360 degree turn.
+.dn Descend now to $1.
+.mb Maintain block $1 through $2.
+.aft After $1
+.isk Increase speed to $1 knots.
+.rsk Reduce speed to $1 knots.
+.xd do not exceed $1 $2
+.ns Resume normal speed.
+.si Say airspeed.
+.sm Say mach number.
+.exa Expect $1 approach to runway $2
+.vf Vectors to final approach course
+.vd Vectors for descent
+.vt Vectors for traffic
+.vc Vectors for climb
+.vac Expect vectors across final for $1
+
+;ENROUTE COMMANDS
+.vor .fv LEV SJI MVC NPA NUN CEW MGM CSG MCN DBN OZR PZD MAI PAM SZW IFM OTK TAY CTY OCF GNV PIE LAL ORL MLB OMN SGJ VQQ CRG SSI AMG SAV ALD CHS CAE CTF FLO CRE ILM LBT VNA IRQ SSC VAN SVN EDN HYE RRS EUF LSF MMT FAY RSW TRV GEF AYS SRQ ATL SDZ CLT GRD LBV PHK PGD PBI TGE VUZ
+
+;RELOAD COMMANDS
+.ra .reloadaliases
+.rs .reloadsector
+.rp .reloadpof
+
+;SOP Links
+.sop .openurl https://ptusa.ga/regions/southeastern/zjx/
