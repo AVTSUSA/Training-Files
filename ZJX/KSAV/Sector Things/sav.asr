@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KSAV\KSAV.sct2
+SECTORFILE:C:\Users\broth\OneDrive\Desktop\PTSIM\ZJX\KSAV\Sector Things\KSAV.sct2
 SECTORTITLE:KSAV.sct2
 Free Text:SCT2\1:freetext
 Free Text:SCT2\10:freetext
@@ -138,4 +138,4 @@ SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:32.119702:-81.213727:32.137905:-81.181385
+WINDOWAREA:32.100408:-81.246477:32.155983:-81.147735
