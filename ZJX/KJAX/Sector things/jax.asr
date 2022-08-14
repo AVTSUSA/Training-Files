@@ -1,0 +1,137 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KJAX\KJAX.sct2
+SECTORTITLE:KJAX.sct2
+Fixes:ARNEY:name
+Fixes:ARNEY:symbol
+Fixes:BAXLY:name
+Fixes:BAXLY:symbol
+Fixes:CROSB:name
+Fixes:CROSB:symbol
+Fixes:EXBOX:name
+Fixes:EXBOX:symbol
+Fixes:GIGLZ:name
+Fixes:GIGLZ:symbol
+Fixes:KIMML:name
+Fixes:KIMML:symbol
+Fixes:LIBBY:name
+Fixes:LIBBY:symbol
+Fixes:ORTAR:name
+Fixes:ORTAR:symbol
+Fixes:SAWGY:name
+Fixes:SAWGY:symbol
+Fixes:WISPR:name
+Fixes:WISPR:symbol
+Free Text:SCT2\14:freetext
+Free Text:SCT2\26:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\8:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\FEDEX:freetext
+Free Text:SCT2\FL ANG:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\G1:freetext
+Free Text:SCT2\G1:freetext
+Free Text:SCT2\G1:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\K:freetext
+Free Text:SCT2\L:freetext
+Free Text:SCT2\M1:freetext
+Free Text:SCT2\M2:freetext
+Free Text:SCT2\M3:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\Q:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\R:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\SHELTAIR FBO:freetext
+Free Text:SCT2\SIGNATURE FBO:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\U:freetext
+Free Text:SCT2\UPS:freetext
+Free Text:SCT2\V:freetext
+Regions:Untitled_Polygon_1:polygon
+Regions:Untitled_Polygon_10:polygon
+Regions:Untitled_Polygon_11:polygon
+Regions:Untitled_Polygon_12:polygon
+Regions:Untitled_Polygon_13:polygon
+Regions:Untitled_Polygon_14:polygon
+Regions:Untitled_Polygon_15:polygon
+Regions:Untitled_Polygon_16:polygon
+Regions:Untitled_Polygon_17:polygon
+Regions:Untitled_Polygon_18:polygon
+Regions:Untitled_Polygon_19:polygon
+Regions:Untitled_Polygon_2:polygon
+Regions:Untitled_Polygon_20:polygon
+Regions:Untitled_Polygon_21:polygon
+Regions:Untitled_Polygon_22:polygon
+Regions:Untitled_Polygon_23:polygon
+Regions:Untitled_Polygon_24:polygon
+Regions:Untitled_Polygon_25:polygon
+Regions:Untitled_Polygon_26:polygon
+Regions:Untitled_Polygon_27:polygon
+Regions:Untitled_Polygon_28:polygon
+Regions:Untitled_Polygon_29:polygon
+Regions:Untitled_Polygon_3:polygon
+Regions:Untitled_Polygon_30:polygon
+Regions:Untitled_Polygon_31:polygon
+Regions:Untitled_Polygon_32:polygon
+Regions:Untitled_Polygon_33:polygon
+Regions:Untitled_Polygon_34:polygon
+Regions:Untitled_Polygon_35:polygon
+Regions:Untitled_Polygon_36:polygon
+Regions:Untitled_Polygon_37:polygon
+Regions:Untitled_Polygon_38:polygon
+Regions:Untitled_Polygon_39:polygon
+Regions:Untitled_Polygon_4:polygon
+Regions:Untitled_Polygon_40:polygon
+Regions:Untitled_Polygon_41:polygon
+Regions:Untitled_Polygon_42:polygon
+Regions:Untitled_Polygon_43:polygon
+Regions:Untitled_Polygon_44:polygon
+Regions:Untitled_Polygon_45:polygon
+Regions:Untitled_Polygon_5:polygon
+Regions:Untitled_Polygon_6:polygon
+Regions:Untitled_Polygon_7:polygon
+Regions:Untitled_Polygon_8:polygon
+Regions:Untitled_Polygon_9:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:30.478856:-81.708220:30.502798:-81.665680
