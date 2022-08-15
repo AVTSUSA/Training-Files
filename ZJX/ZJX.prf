@@ -1,4 +1,4 @@
-Settings	sector	\Sector Files\ZJX_ES_2207.sct2
+Settings	sector	\KDAB\Sector Things\KDAB.sct2
 LastSession	connecttype	2
 LastSession	callsign	JAX_M_CTR
 LastSession	realname	eqwrsg
@@ -14,8 +14,8 @@ LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	alias	C:\Users\SamVa\Desktop\KJAX.txt
 LastSession	scenario	\ZJX\ZJX S-E-E.txt
-RecentFiles	Recent2	\KJAX\jax.asr
-RecentFiles	Recent3	\KSAV\sav.asr
+RecentFiles	Recent2	\KMCO\mco.asr
+RecentFiles	Recent3	\KJAX\jax.asr
 Sounds	Sound0	C:\Program Files (x86)\EuroScope\Sounds\handoff_request.wav
 Sounds	Sound1	C:\Program Files (x86)\EuroScope\Sounds\handoff_accept.wav
 Sounds	Sound2	C:\Program Files (x86)\EuroScope\Sounds\conflict_alert.wav
@@ -36,16 +36,16 @@ Sounds	Sound16	C:\Program Files (x86)\EuroScope\Sounds\handoff_refused.wav
 Sounds	Sound17	C:\Program Files (x86)\EuroScope\Sounds\pointout.wav
 Settings	AselKey	5111808
 Settings	FreqKey	1835008
-RecentFiles	Recent4	\KSFB\KSFB.asr
-RecentFiles	Recent5	C:\Users\SamVa\Desktop\PTSIM\ZME\bna.asr
-RecentFiles	Recent6	C:\Users\SamVa\Desktop\PTSIM\ZME\mem.asr
-RecentFiles	Recent7	\jax.asr
-RecentFiles	Recent8	\mco.asr
+RecentFiles	Recent4	\KSAV\sav.asr
+RecentFiles	Recent5	\KSFB\KSFB.asr
+RecentFiles	Recent6	C:\Users\SamVa\Desktop\PTSIM\ZME\bna.asr
+RecentFiles	Recent7	C:\Users\SamVa\Desktop\PTSIM\ZME\mem.asr
+RecentFiles	Recent8	\jax.asr
 RecentFiles	Recent9	\mco.asr
 RecentFiles	Recent10	\mco.asr
-RecentFiles	Recent1	\KMCO\mco.asr
 ASRFastKeys	1	\KJAX\jax.asr
 ASRFastKeys	2	\KMCO\mco.asr
 ASRFastKeys	3	\KSAV\sav.asr
 ASRFastKeys	4	\KSFB\KSFB.asr
 RecentFiles	Recent11	\mco.asr
+RecentFiles	Recent1	\KDAB\Sector Things\kdab.asr

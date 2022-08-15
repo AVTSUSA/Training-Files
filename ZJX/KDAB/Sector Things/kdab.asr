@@ -1,0 +1,160 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KDAB\Sector Things\KDAB.sct2
+SECTORTITLE:KDAB.sct2
+Free Text:SCT2\16:freetext
+Free Text:SCT2\25L:freetext
+Free Text:SCT2\25R:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\7L:freetext
+Free Text:SCT2\7R:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\ATP:freetext
+Free Text:SCT2\B1:freetext
+Free Text:SCT2\B2:freetext
+Free Text:SCT2\B3:freetext
+Free Text:SCT2\B4:freetext
+Free Text:SCT2\C1:freetext
+Free Text:SCT2\C2:freetext
+Free Text:SCT2\Cargo:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E1:freetext
+Free Text:SCT2\E2:freetext
+Free Text:SCT2\E3:freetext
+Free Text:SCT2\E4:freetext
+Free Text:SCT2\ERAU:freetext
+Free Text:SCT2\M1:freetext
+Free Text:SCT2\M2:freetext
+Free Text:SCT2\M3:freetext
+Free Text:SCT2\M4:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N:freetext
+Free Text:SCT2\N1:freetext
+Free Text:SCT2\N10:freetext
+Free Text:SCT2\N11:freetext
+Free Text:SCT2\N2:freetext
+Free Text:SCT2\N3:freetext
+Free Text:SCT2\N4:freetext
+Free Text:SCT2\N5:freetext
+Free Text:SCT2\N6:freetext
+Free Text:SCT2\N7:freetext
+Free Text:SCT2\N8:freetext
+Free Text:SCT2\N9:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P3:freetext
+Free Text:SCT2\P4:freetext
+Free Text:SCT2\P5:freetext
+Free Text:SCT2\P6:freetext
+Free Text:SCT2\P9:freetext
+Free Text:SCT2\PHOENIX EAST:freetext
+Free Text:SCT2\R1:freetext
+Free Text:SCT2\R2:freetext
+Free Text:SCT2\R3:freetext
+Free Text:SCT2\R4:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S:freetext
+Free Text:SCT2\S1:freetext
+Free Text:SCT2\SE RAMP:freetext
+Free Text:SCT2\T:freetext
+Free Text:SCT2\T1:freetext
+Free Text:SCT2\T2:freetext
+Free Text:SCT2\TERMINAL:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W:freetext
+Free Text:SCT2\W1:freetext
+Free Text:SCT2\W2:freetext
+Free Text:SCT2\W3:freetext
+Free Text:SCT2\W4:freetext
+Free Text:SCT2\W5:freetext
+Free Text:SCT2\Y:freetext
+Free Text:SCT2\YELVINGTON:freetext
+Regions:dwwd:polygon
+Regions:Grass_1:polygon
+Regions:Grass_2:polygon
+Regions:Grass_3:polygon
+Regions:Grass_4:polygon
+Regions:Grass_5:polygon
+Regions:Perimiter_1:polygon
+Regions:Runway_25L_7R:polygon
+Regions:Runway_25R_7L:polygon
+Regions:Runway_34_16:polygon
+Regions:Terminal:polygon
+Regions:Untitled_Polygon_1:polygon
+Regions:Untitled_Polygon_10:polygon
+Regions:Untitled_Polygon_11:polygon
+Regions:Untitled_Polygon_12:polygon
+Regions:Untitled_Polygon_13:polygon
+Regions:Untitled_Polygon_14:polygon
+Regions:Untitled_Polygon_15:polygon
+Regions:Untitled_Polygon_16:polygon
+Regions:Untitled_Polygon_17:polygon
+Regions:Untitled_Polygon_18:polygon
+Regions:Untitled_Polygon_19:polygon
+Regions:Untitled_Polygon_2:polygon
+Regions:Untitled_Polygon_20:polygon
+Regions:Untitled_Polygon_21:polygon
+Regions:Untitled_Polygon_22:polygon
+Regions:Untitled_Polygon_23:polygon
+Regions:Untitled_Polygon_24:polygon
+Regions:Untitled_Polygon_25:polygon
+Regions:Untitled_Polygon_26:polygon
+Regions:Untitled_Polygon_27:polygon
+Regions:Untitled_Polygon_28:polygon
+Regions:Untitled_Polygon_29:polygon
+Regions:Untitled_Polygon_3:polygon
+Regions:Untitled_Polygon_30:polygon
+Regions:Untitled_Polygon_31:polygon
+Regions:Untitled_Polygon_32:polygon
+Regions:Untitled_Polygon_33:polygon
+Regions:Untitled_Polygon_34:polygon
+Regions:Untitled_Polygon_35:polygon
+Regions:Untitled_Polygon_36:polygon
+Regions:Untitled_Polygon_37:polygon
+Regions:Untitled_Polygon_38:polygon
+Regions:Untitled_Polygon_39:polygon
+Regions:Untitled_Polygon_4:polygon
+Regions:Untitled_Polygon_40:polygon
+Regions:Untitled_Polygon_41:polygon
+Regions:Untitled_Polygon_42:polygon
+Regions:Untitled_Polygon_43:polygon
+Regions:Untitled_Polygon_44:polygon
+Regions:Untitled_Polygon_45:polygon
+Regions:Untitled_Polygon_46:polygon
+Regions:Untitled_Polygon_47:polygon
+Regions:Untitled_Polygon_48:polygon
+Regions:Untitled_Polygon_49:polygon
+Regions:Untitled_Polygon_5:polygon
+Regions:Untitled_Polygon_50:polygon
+Regions:Untitled_Polygon_51:polygon
+Regions:Untitled_Polygon_6:polygon
+Regions:Untitled_Polygon_7:polygon
+Regions:Untitled_Polygon_8:polygon
+Regions:Untitled_Polygon_9:polygon
+Regions:wwwwwwww:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:29.157419:-81.102031:29.205243:-81.017060
