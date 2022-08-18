@@ -1,150 +1,433 @@
-DisplayTypeName:Standard ES radar screen
+DisplayTypeName:
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\KDAB\Sector Things\KDAB.sct2
-SECTORTITLE:KDAB.sct2
-Free Text:SCT2\16:freetext
-Free Text:SCT2\25L:freetext
-Free Text:SCT2\25R:freetext
-Free Text:SCT2\34:freetext
-Free Text:SCT2\7L:freetext
-Free Text:SCT2\7R:freetext
-Free Text:SCT2\A:freetext
-Free Text:SCT2\A:freetext
-Free Text:SCT2\ATP:freetext
-Free Text:SCT2\B1:freetext
-Free Text:SCT2\B2:freetext
-Free Text:SCT2\B3:freetext
-Free Text:SCT2\B4:freetext
-Free Text:SCT2\C1:freetext
-Free Text:SCT2\C2:freetext
-Free Text:SCT2\Cargo:freetext
-Free Text:SCT2\E:freetext
-Free Text:SCT2\E:freetext
-Free Text:SCT2\E:freetext
-Free Text:SCT2\E:freetext
-Free Text:SCT2\E1:freetext
-Free Text:SCT2\E2:freetext
-Free Text:SCT2\E3:freetext
-Free Text:SCT2\E4:freetext
-Free Text:SCT2\ERAU:freetext
-Free Text:SCT2\M1:freetext
-Free Text:SCT2\M2:freetext
-Free Text:SCT2\M3:freetext
-Free Text:SCT2\M4:freetext
-Free Text:SCT2\N:freetext
-Free Text:SCT2\N:freetext
-Free Text:SCT2\N:freetext
-Free Text:SCT2\N:freetext
-Free Text:SCT2\N:freetext
-Free Text:SCT2\N1:freetext
-Free Text:SCT2\N10:freetext
-Free Text:SCT2\N11:freetext
-Free Text:SCT2\N2:freetext
-Free Text:SCT2\N3:freetext
-Free Text:SCT2\N4:freetext
-Free Text:SCT2\N5:freetext
-Free Text:SCT2\N6:freetext
-Free Text:SCT2\N7:freetext
-Free Text:SCT2\N8:freetext
-Free Text:SCT2\N9:freetext
-Free Text:SCT2\P:freetext
-Free Text:SCT2\P:freetext
-Free Text:SCT2\P:freetext
-Free Text:SCT2\P:freetext
-Free Text:SCT2\P3:freetext
-Free Text:SCT2\P4:freetext
-Free Text:SCT2\P5:freetext
-Free Text:SCT2\P6:freetext
-Free Text:SCT2\P9:freetext
-Free Text:SCT2\PHOENIX EAST:freetext
-Free Text:SCT2\R1:freetext
-Free Text:SCT2\R2:freetext
-Free Text:SCT2\R3:freetext
-Free Text:SCT2\R4:freetext
-Free Text:SCT2\S:freetext
-Free Text:SCT2\S:freetext
-Free Text:SCT2\S1:freetext
-Free Text:SCT2\SE RAMP:freetext
-Free Text:SCT2\T:freetext
-Free Text:SCT2\T1:freetext
-Free Text:SCT2\T2:freetext
-Free Text:SCT2\TERMINAL:freetext
-Free Text:SCT2\W:freetext
-Free Text:SCT2\W:freetext
-Free Text:SCT2\W:freetext
-Free Text:SCT2\W:freetext
-Free Text:SCT2\W:freetext
-Free Text:SCT2\W1:freetext
-Free Text:SCT2\W2:freetext
-Free Text:SCT2\W3:freetext
-Free Text:SCT2\W4:freetext
-Free Text:SCT2\W5:freetext
-Free Text:SCT2\Y:freetext
-Free Text:SCT2\YELVINGTON:freetext
-Regions:dwwd:polygon
-Regions:Grass_1:polygon
-Regions:Grass_2:polygon
-Regions:Grass_3:polygon
-Regions:Grass_4:polygon
-Regions:Grass_5:polygon
-Regions:Perimiter_1:polygon
-Regions:Runway_25L_7R:polygon
-Regions:Runway_25R_7L:polygon
-Regions:Runway_34_16:polygon
-Regions:Terminal:polygon
-Regions:Untitled_Polygon_1:polygon
-Regions:Untitled_Polygon_10:polygon
-Regions:Untitled_Polygon_11:polygon
-Regions:Untitled_Polygon_12:polygon
-Regions:Untitled_Polygon_13:polygon
-Regions:Untitled_Polygon_14:polygon
-Regions:Untitled_Polygon_15:polygon
-Regions:Untitled_Polygon_16:polygon
-Regions:Untitled_Polygon_17:polygon
-Regions:Untitled_Polygon_18:polygon
-Regions:Untitled_Polygon_19:polygon
-Regions:Untitled_Polygon_2:polygon
-Regions:Untitled_Polygon_20:polygon
-Regions:Untitled_Polygon_21:polygon
-Regions:Untitled_Polygon_22:polygon
-Regions:Untitled_Polygon_23:polygon
-Regions:Untitled_Polygon_24:polygon
-Regions:Untitled_Polygon_25:polygon
-Regions:Untitled_Polygon_26:polygon
-Regions:Untitled_Polygon_27:polygon
-Regions:Untitled_Polygon_28:polygon
-Regions:Untitled_Polygon_29:polygon
-Regions:Untitled_Polygon_3:polygon
-Regions:Untitled_Polygon_30:polygon
-Regions:Untitled_Polygon_31:polygon
-Regions:Untitled_Polygon_32:polygon
-Regions:Untitled_Polygon_33:polygon
-Regions:Untitled_Polygon_34:polygon
-Regions:Untitled_Polygon_35:polygon
-Regions:Untitled_Polygon_36:polygon
-Regions:Untitled_Polygon_37:polygon
-Regions:Untitled_Polygon_38:polygon
-Regions:Untitled_Polygon_39:polygon
-Regions:Untitled_Polygon_4:polygon
-Regions:Untitled_Polygon_40:polygon
-Regions:Untitled_Polygon_41:polygon
-Regions:Untitled_Polygon_42:polygon
-Regions:Untitled_Polygon_43:polygon
-Regions:Untitled_Polygon_44:polygon
-Regions:Untitled_Polygon_45:polygon
-Regions:Untitled_Polygon_46:polygon
-Regions:Untitled_Polygon_47:polygon
-Regions:Untitled_Polygon_48:polygon
-Regions:Untitled_Polygon_49:polygon
-Regions:Untitled_Polygon_5:polygon
-Regions:Untitled_Polygon_50:polygon
-Regions:Untitled_Polygon_51:polygon
-Regions:Untitled_Polygon_6:polygon
-Regions:Untitled_Polygon_7:polygon
-Regions:Untitled_Polygon_8:polygon
-Regions:Untitled_Polygon_9:polygon
-Regions:wwwwwwww:polygon
+SECTORFILE:C:\Users\SamVa\Desktop\PTSIM\ZJX\Sector Files\ZJX_ES_2208.sct2
+SECTORTITLE:ZJX_ES_2208.sct2
+ARTCC boundary:KZDC_H_CTR:
+ARTCC boundary:KZDC_L_CTR:
+ARTCC boundary:KZHU_L_CTR:
+ARTCC boundary:KZID_L_CTR:
+ARTCC boundary:KZJX_H_CTR:
+ARTCC boundary:KZJX_L_CTR:
+ARTCC boundary:KZMA_H_CTR:
+ARTCC boundary:KZMA_O_CTR:
+ARTCC boundary:KZME_L_CTR:
+ARTCC boundary:KZTL_L_CTR:
+ARTCC boundary:KZWY_H_CTR:
+ARTCC low boundary:CAE_APP:
+ARTCC low boundary:CHS_APP:
+ARTCC low boundary:CLT_APP:
+ARTCC low boundary:CSG_APP:
+ARTCC low boundary:DAB_APP:
+ARTCC low boundary:FAY_APP:
+ARTCC low boundary:FLO_APP:
+ARTCC low boundary:ILM_APP:
+ARTCC low boundary:JAX_H_APP:
+ARTCC low boundary:JAX_L_APP:
+ARTCC low boundary:MCN_APP:
+ARTCC low boundary:MCO_A_APP:
+ARTCC low boundary:MCO_APP:
+ARTCC low boundary:MCO_B_APP:
+ARTCC low boundary:MGM_APP:
+ARTCC low boundary:MIA_APP:
+ARTCC low boundary:MOB_APP:
+ARTCC low boundary:MYR_APP:
+ARTCC low boundary:NBC_RAP:
+ARTCC low boundary:OZR_RAP:
+ARTCC low boundary:PAM_APP:
+ARTCC low boundary:PBI_APP:
+ARTCC low boundary:PNS_APP:
+ARTCC low boundary:RSW_APP:
+ARTCC low boundary:SAV_APP:
+ARTCC low boundary:TLH_APP:
+ARTCC low boundary:TPA_APP:
+ARTCC low boundary:VLD_APP:
+ARTCC low boundary:VPS_APP:
+ARTCC low boundary:X8201:
+High airways:AR10:line
+High airways:AR11:line
+High airways:AR12:line
+High airways:AR15:line
+High airways:AR16:line
+High airways:AR17:line
+High airways:AR18:line
+High airways:AR19:line
+High airways:AR21:line
+High airways:AR22:line
+High airways:AR23:line
+High airways:AR24:line
+High airways:AR25:line
+High airways:AR3:line
+High airways:AR5:line
+High airways:AR6:line
+High airways:AR7:line
+High airways:AR8:line
+High airways:AR9:line
+High airways:J121:line
+High airways:J174:line
+High airways:J191:line
+High airways:J2:line
+High airways:J20:line
+High airways:J207:line
+High airways:J37:line
+High airways:J39:line
+High airways:J4:line
+High airways:J41:line
+High airways:J50:line
+High airways:J55:line
+High airways:J590:line
+High airways:J69:line
+High airways:J79:line
+High airways:J99:line
+High airways:L207:line
+High airways:L208:line
+High airways:L209:line
+High airways:L212:line
+High airways:L214:line
+High airways:L333:line
+High airways:L345:line
+High airways:L375:line
+High airways:L417:line
+High airways:L435:line
+High airways:L450:line
+High airways:L451:line
+High airways:L452:line
+High airways:L453:line
+High airways:L454:line
+High airways:L455:line
+High airways:L457:line
+High airways:L463:line
+High airways:L465:line
+High airways:L471:line
+High airways:L577:line
+High airways:L795:line
+High airways:M201:line
+High airways:M202:line
+High airways:M203:line
+High airways:M204:line
+High airways:M215:line
+High airways:M218:line
+High airways:M219:line
+High airways:M221:line
+High airways:M325:line
+High airways:M326:line
+High airways:M327:line
+High airways:M328:line
+High airways:M329:line
+High airways:M330:line
+High airways:M331:line
+High airways:M335:line
+High airways:M345:line
+High airways:M346:line
+High airways:M348:line
+High airways:M575:line
+High airways:M580:line
+High airways:M593:line
+High airways:M595:line
+High airways:Q103:line
+High airways:Q104:line
+High airways:Q109:line
+High airways:Q110:line
+High airways:Q113:line
+High airways:Q116:line
+High airways:Q118:line
+High airways:Q129:line
+High airways:Q135:line
+High airways:Q139:line
+High airways:Q172:line
+High airways:Q19:line
+High airways:Q22:line
+High airways:Q409:line
+High airways:Q54:line
+High airways:Q56:line
+High airways:Q64:line
+High airways:Q65:line
+High airways:Q69:line
+High airways:Q75:line
+High airways:Q77:line
+High airways:Q79:line
+High airways:Q81:line
+High airways:Q83:line
+High airways:Q85:line
+High airways:Q87:line
+High airways:Q89:line
+High airways:Q93:line
+High airways:Q97:line
+High airways:Q99:line
+High airways:UA511:line
+High airways:UA766:line
+High airways:UA770:line
+High airways:UB646:line
+High airways:UB764:line
+High airways:UB879:line
+High airways:UB881:line
+High airways:UG430:line
+High airways:UG437:line
+High airways:UG442:line
+High airways:UG448:line
+High airways:UG521:line
+High airways:UG633:line
+High airways:UG765:line
+High airways:UG877:line
+High airways:UJ16:line
+High airways:UJ18:line
+High airways:UJ24:line
+High airways:UJ26:line
+High airways:UJ52:line
+High airways:UJ84:line
+High airways:UJ9:line
+High airways:UL207:line
+High airways:UL208:line
+High airways:UL209:line
+High airways:UL210:line
+High airways:UL212:line
+High airways:UL214:line
+High airways:UL333:line
+High airways:UL345:line
+High airways:UL417:line
+High airways:UL465:line
+High airways:UL471:line
+High airways:UL577:line
+High airways:UL674:line
+High airways:UL780:line
+High airways:UL795:line
+High airways:UM209:line
+High airways:UM215:line
+High airways:UM218:line
+High airways:UM219:line
+High airways:UM221:line
+High airways:UM328:line
+High airways:UM330:line
+High airways:UM331:line
+High airways:UM335:line
+High airways:UM346:line
+High airways:UM347:line
+High airways:UM348:line
+High airways:UM580:line
+High airways:UM595:line
+High airways:UM782:line
+High airways:UR506:line
+High airways:UR522:line
+High airways:UR625:line
+High airways:UR628:line
+High airways:UR640:line
+High airways:UR644:line
+High airways:UT11:line
+High airways:UT17:line
+High airways:UT19:line
+High airways:UT22:line
+High airways:UT23:line
+High airways:UT27:line
+High airways:UT28:line
+High airways:UT29:line
+High airways:UT31:line
+High airways:UT34:line
+High airways:UT35:line
+High airways:UT37:line
+High airways:UT43:line
+High airways:UT45:line
+High airways:UV106:line
+High airways:UZ637:line
+High airways:Y183:line
+High airways:Y185:line
+High airways:Y196:line
+High airways:Y217:line
+High airways:Y240:line
+High airways:Y259:line
+High airways:Y261:line
+High airways:Y262:line
+High airways:Y280:line
+High airways:Y289:line
+High airways:Y290:line
+High airways:Y291:line
+High airways:Y297:line
+High airways:Y298:line
+High airways:Y299:line
+High airways:Y304:line
+High airways:Y306:line
+High airways:Y307:line
+High airways:Y308:line
+High airways:Y309:line
+High airways:Y319:line
+High airways:Y323:line
+High airways:Y325:line
+High airways:Y329:line
+High airways:Y350:line
+High airways:Y353:line
+High airways:Y355:line
+High airways:Y374:line
+High airways:Y396:line
+High airways:Y398:line
+High airways:Y399:line
+High airways:Y421:line
+High airways:Y436:line
+High airways:Y438:line
+High airways:Y441:line
+High airways:Y442:line
+High airways:Y443:line
+High airways:Y484:line
+High airways:Y485:line
+High airways:Y488:line
+High airways:Y493:line
+High airways:Y494:line
+High airways:Y585:line
+High airways:Y586:line
+High airways:Y587:line
+High airways:Y588:line
+High airways:Y589:line
+Runways:07L-25R:extended centerline 1
+Runways:07L-25R:name
+Runways:16-34:extended centerline 1
+VORs:AHN:symbol
+VORs:ALD:symbol
+VORs:AMG:symbol
+VORs:ATL:symbol
+VORs:AYS:symbol
+VORs:BFM:symbol
+VORs:BIX:symbol
+VORs:BZM:symbol
+VORs:CAE:symbol
+VORs:CBM:symbol
+VORs:CEW:symbol
+VORs:CHS:symbol
+VORs:CLT:symbol
+VORs:COF:symbol
+VORs:CRE:symbol
+VORs:CRG:symbol
+VORs:CSG:symbol
+VORs:CTF:symbol
+VORs:CTY:symbol
+VORs:CYY:symbol
+VORs:DBN:symbol
+VORs:DHP:symbol
+VORs:DOB:symbol
+VORs:DWG:symbol
+VORs:DYR:symbol
+VORs:EDN:symbol
+VORs:EDS:symbol
+VORs:ELW:symbol
+VORs:EUF:symbol
+VORs:EWN:symbol
+VORs:FAY:symbol
+VORs:FLL:symbol
+VORs:FLO:symbol
+VORs:GAD:symbol
+VORs:GCV:symbol
+VORs:GEF:symbol
+VORs:GNV:symbol
+VORs:GOJ:symbol
+VORs:GPT:symbol
+VORs:GQE:symbol
+VORs:GQO:symbol
+VORs:GRD:symbol
+VORs:GSB:symbol
+VORs:GSO:symbol
+VORs:HCH:symbol
+VORs:HEY:symbol
+VORs:HLI:symbol
+VORs:HMU:symbol
+VORs:HRS:symbol
+VORs:HRT:symbol
+VORs:HRV:symbol
+VORs:HST:symbol
+VORs:IFM:symbol
+VORs:IGB:symbol
+VORs:ILM:symbol
+VORs:IRQ:symbol
+VORs:ISO:symbol
+VORs:JAN:symbol
+VORs:JBR:symbol
+VORs:JKS:symbol
+VORs:JYU:symbol
+VORs:LAL:symbol
+VORs:LBT:symbol
+VORs:LBV:symbol
+VORs:LBY:symbol
+VORs:LDK:symbol
+VORs:LEV:symbol
+VORs:LGC:symbol
+VORs:LIB:symbol
+VORs:LSF:symbol
+VORs:MAI:symbol
+VORs:MCB:symbol
+VORs:MCF:symbol
+VORs:MCN:symbol
+VORs:MEI:symbol
+VORs:MEM:symbol
+VORs:MGM:symbol
+VORs:MHZ:symbol
+VORs:MKL:symbol
+VORs:MLB:symbol
+VORs:MMT:symbol
+VORs:MSL:symbol
+VORs:MVC:symbol
+VORs:MXF:symbol
+VORs:NBC:symbol
+VORs:NCA:symbol
+VORs:NGS:symbol
+VORs:NIP:symbol
+VORs:NJM:symbol
+VORs:NKT:symbol
+VORs:NMM:symbol
+VORs:NPA:symbol
+VORs:NRB:symbol
+VORs:NSE:symbol
+VORs:NUN:symbol
+VORs:OCF:symbol
+VORs:ODF:symbol
+VORs:OKW:symbol
+VORs:OMN:symbol
+VORs:ORL:symbol
+VORs:OTB:symbol
+VORs:OTK:symbol
+VORs:OZR:symbol
+VORs:PAM:symbol
+VORs:PBI:symbol
+VORs:PCU:symbol
+VORs:PDK:symbol
+VORs:PGD:symbol
+VORs:PHK:symbol
+VORs:PIE:symbol
+VORs:POB:symbol
+VORs:PZD:symbol
+VORs:RBX:symbol
+VORs:RDU:symbol
+VORs:RMG:symbol
+VORs:RQR:symbol
+VORs:RQZ:symbol
+VORs:RRS:symbol
+VORs:RSW:symbol
+VORs:SAV:symbol
+VORs:SDZ:symbol
+VORs:SGJ:symbol
+VORs:SJI:symbol
+VORs:SOT:symbol
+VORs:SPA:symbol
+VORs:SQS:symbol
+VORs:SRQ:symbol
+VORs:SSC:symbol
+VORs:SSI:symbol
+VORs:SUG:symbol
+VORs:SVN:symbol
+VORs:SYI:symbol
+VORs:SZW:symbol
+VORs:TAY:symbol
+VORs:TGE:symbol
+VORs:TRV:symbol
+VORs:TYI:symbol
+VORs:UJM:symbol
+VORs:UXM:symbol
+VORs:VAD:symbol
+VORs:VAN:symbol
+VORs:VKZ:symbol
+VORs:VNA:symbol
+VORs:VQQ:symbol
+VORs:VUZ:symbol
+VORs:VXV:symbol
+VORs:WRB:symbol
+VORs:ZBV:symbol
+VORs:ZFP:symbol
+VORs:ZTC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -157,4 +440,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:Matias (built in)
-WINDOWAREA:29.157419:-81.102031:29.205243:-81.017060
+WINDOWAREA:28.539841:-82.357739:29.789192:-80.137973
